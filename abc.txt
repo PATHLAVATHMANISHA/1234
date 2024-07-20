@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>student Form</title>
+</head>
+<body>
+<body bgcolor="green">
+<form>
+Fisrt Name:<input type="text" id="aa" name="ln" placeholder="enter your name"><br>
+Last Name:<input type="text" id="aa" name="ln" placeholder="enter your name"><br>
+Mother Name:<input type="text" id="aa" name="ln" placeholder="mother name"><br>
+Father Name:<input type="text" id="aa" name="ln" placeholder="father name"><br>
+GENDER:<inpiut type="radio" name="radio" value="radio">Male
+<input type="radio" name="radio" value="radio">Female
+
+ 
